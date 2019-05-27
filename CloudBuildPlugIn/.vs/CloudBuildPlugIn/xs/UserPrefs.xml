@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{168D8A83-CEAF-5E16-E821-5C2494486AAA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UploadProject/Editor/UcbEditorWindow.cs">
+    <Files>
+      <File FileName="Assets/UploadProject/UploadProject/Program.cs" Line="64" Column="38" />
+      <File FileName="Assets/UploadProject/UploadProject/QRHelper.cs" Line="22" Column="32" />
+      <File FileName="Assets/UploadProject/UploadProject/TransferMode.cs" Line="3" Column="29" />
+      <File FileName="Assets/UploadProject/UploadProject/FTP.cs" Line="78" Column="32" />
+      <File FileName="Assets/UploadProject/UploadProject/UcbFacade.cs" Line="97" Column="1" />
+      <File FileName="Assets/UploadProject/UploadProject/ZipHelper.cs" Line="9" Column="183" />
+      <File FileName="Assets/UploadProject/UploadProject/JobStatus.cs" Line="10" Column="18" />
+      <File FileName="Assets/UploadProject/Editor/UcbLogPopup.cs" Line="28" Column="10" />
+      <File FileName="Assets/UploadProject/UploadProject/CosFacade.cs" Line="63" Column="77" />
+      <File FileName="Assets/UploadProject/Editor/UcbEditorWindow.cs" Line="303" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CloudBuildPlugIn" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UploadProject" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="UcbEditorWindow.cs" selected="True" />
+                </Node>
+                <Node name="UploadProject" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>logUrl</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5cc9b78d-1d0c-4c9f-a3d0-1165e9ff8b7c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
